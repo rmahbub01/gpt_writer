@@ -1,18 +1,19 @@
 # ChatGPT Article Writer
+A SEO friendly openai powered article writer to boost your niche.\
 This script take a csv file with keywords with respective serial number then generate Article for you
 <br>
 
 # Output Structure
 All articles are saved as **Word Document**.\
-Your can set the variable ```DEBUG = True``` in ```gpt_writer.py``` to get output the **MARKDOWN** file alongside with **Word Document**
+You can set the variable ```DEBUG = True``` in ```gpt_writer.py``` to get output the **MARKDOWN** file alongside with **Word Document**
 # CSV file structure
 You must have a ```keywords.csv``` file in project directory.
 
-| SL | Keywords|
-| ---|---------|
-|1  | Keyword 1|
-|2 | Keyword 2 |
-|..| ......... |
+| SL | Keywords  |
+|----|-----------|
+| 1  | Keyword 1 |
+| 2  | Keyword 2 |
+| .. | ......... |
 
   
 # Versioning 

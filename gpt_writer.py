@@ -16,7 +16,7 @@ import prompts
 
 configs = {
     'model': 'gpt-3.5-turbo',
-    'api_key': '<opeai api key>',
+    'api_key': '<openai api key>',
 }
 
 DEBUG = True
