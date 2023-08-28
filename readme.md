@@ -27,7 +27,7 @@ Now run the script using the command:\
 In Windows:\
 ```python gpt_writer.py```\
 In Linux or Mac:\
-```python3 gpt_writer.py```\
+```python3 gpt_writer.py```
 
 ```Choose Version:
 [1] Press 1 for v1 --> For generating article directly
