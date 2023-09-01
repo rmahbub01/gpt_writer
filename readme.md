@@ -22,6 +22,10 @@ This script has two versions
 - Generate Article from Outlines [v3]
     * To use this version you must have a ```outlines.csv``` file generated in version [v2]
 
+# Configurations
+
+You need to rename the file ```configs.example.py``` to ```configs.py``` and put your openai api key there.
+
 # Usage
 Open your terminal in project directory ```gpt_writer```
 Now run the script using the command:\
