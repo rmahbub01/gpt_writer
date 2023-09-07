@@ -1,7 +1,7 @@
 .idea
 __pycache__
 /configs.py
+*.csv
 documents
 outlines
 venv
-.gitignore

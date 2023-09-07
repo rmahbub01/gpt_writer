@@ -9,11 +9,11 @@ You can set the variable ```DEBUG = True``` in ```gpt_writer.py``` to get output
 # CSV file structure
 You must have a ```keywords.csv``` file in project directory.
 
-| SL | Keywords  |
-|----|-----------|
-| 1  | Keyword 1 |
-| 2  | Keyword 2 |
-| .. | ......... |
+| SL | Keywords  | Title |
+|----|-----------|-------|
+| 1  | Keyword 1 | title 1|
+| 2  | Keyword 2 | title 2|
+| .. | ......... | .......|
 
   
 # Versioning 
